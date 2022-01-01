@@ -22,10 +22,14 @@
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/git.png)&nbsp;
-![alt text](https://img.icons8.com/color/48/000000/figma--v1.png)&nbsp;\
+![alt text](https://img.icons8.com/color/48/000000/figma--v1.png)&nbsp;
+### 👻 How to reach me ✨✨
+[![Foo](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/thln_non/)&nbsp;
+[![Foo](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100073514454987)
+- email: **thanadon11406@gmail.com**\
 \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noseason2543&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noseason2543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noseason2543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **noseason2543/noseason2543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
