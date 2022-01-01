@@ -5,8 +5,6 @@
 - 📷 My hobbies are taking pictures 🎮 and playing games.
 \
 \
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noseason2543&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noseason2543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
 ### 🔥 Programming Languages ✨✨
 ![alt text](https://img.icons8.com/color/48/000000/dart.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
@@ -26,6 +24,8 @@
 ![alt text](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/git.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/figma--v1.png)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noseason2543&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noseason2543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
 <!--
 **noseason2543/noseason2543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
