@@ -3,8 +3,7 @@
 - 👨‍💻 I'm someone who love self learning and coding.
 - 😲 I'm 21 years old.
 - 📷 My hobbies are taking pictures 🎮 and playing games.
-\
-\
+
 ### 🔥 Programming Languages ✨✨
 ![alt text](https://img.icons8.com/color/48/000000/dart.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
@@ -23,7 +22,8 @@
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/git.png)&nbsp;
-![alt text](https://img.icons8.com/color/48/000000/figma--v1.png)&nbsp;
+![alt text](https://img.icons8.com/color/48/000000/figma--v1.png)&nbsp;\
+\
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noseason2543&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noseason2543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
 <!--
