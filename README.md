@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm someone who love self learning and coding.
 - 😲 I'm 21 years old.
-- 📷 My hobbies are taking pictures 🎮 and playing games.
+- 📷 My hobbies are taking pictures 🎮 and playing video games.
 
 ### 🔥 Programming Languages ✨✨
 ![alt text](https://img.icons8.com/color/48/000000/dart.png)&nbsp;
