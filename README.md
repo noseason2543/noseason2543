@@ -10,6 +10,8 @@
 ![alt text](https://img.icons8.com/fluent/50/000000/python.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/golang.png)&nbsp;
+![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)&nbsp;
+![alt text](https://img.icons8.com/color/48/000000/c-programming.png)&nbsp;
 ### ❤️ Frameworks & Libraries ✨✨
 ![alt text](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp;
 ![alt text](https://img.icons8.com/color/48/000000/flutter.png)&nbsp;
