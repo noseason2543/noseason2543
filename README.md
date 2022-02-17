@@ -1,7 +1,7 @@
 # Hi there I'm Thanadon lamsan. Nickname Non.👋
 
 - 👨‍💻 I'm someone who love self learning and coding.
-- 😲 I'm 21 years old.
+- 😲 I'm 22 years old.
 - 📷 My hobbies are taking pictures 🎮 and playing video games.
 
 ### 🔥 Programming Languages ✨✨
